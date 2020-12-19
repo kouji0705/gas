@@ -1,0 +1,1 @@
+CREATE TABLE CustomerMaster(customerId int(6),customerName varchar(20),postNumber int(7), telNumber int,faxNumber int);
